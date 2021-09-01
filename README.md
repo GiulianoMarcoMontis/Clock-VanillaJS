@@ -9,9 +9,9 @@ Just enjoy the beauty of it and the fun of being late... sometimes!
 
 ### Vanilla JS
 
-- Classes
 - DOM manipulation
-- Event listeners
+- Arrow functions
+- JS Date Object
 
 # Contact
 
